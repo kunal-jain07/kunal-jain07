@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kunal Jain</h1>
+<h1 align="center">I'm Kunal Jain</h1>
 <h3 align="center">🚀 Aspiring AI/ML Engineer | Student | Tech Enthusiast</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 I’m a student passionate about **Artificial Intelligence & Machine Learning**
+- 🎓 A student passionate about **Artificial Intelligence & Machine Learning**
 - 🤖 Skilled in leveraging **AI tools to build and optimize projects**
 - 💡 Believe in **learning by building real-world projects**
 - 📈 Constantly improving my **Python and AI skillset**
