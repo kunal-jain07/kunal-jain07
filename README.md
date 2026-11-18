@@ -1,94 +1,25 @@
-<h1 align="center">I'm Kunal Jain</h1>
-<h3 align="center">🚀 Aspiring AI/ML Engineer | Student | Tech Enthusiast</h3>
+# Kunal S Jain
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+AI%2FML+Engineer;Python+Developer;AI+Tools+Expert;Always+Learning+New+Things&center=true&width=500&height=45">
-</p>
+I’m studying AI & ML at BMS College of Engineering in Bengaluru. Right now I’m building **LookClick**, a Windows prototype that lets me move the cursor with my eyes and click with a pinch. I also make tools for developers, including **BugReplay**, my Chrome extension for recording how to reproduce a bug.
 
----
+[Try BugReplay](https://chromewebstore.google.com/detail/lgnoinkakdmgcpabhigkeaodbleomdbe) · [Browse my repositories](https://github.com/kunal-jain07?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/kunal-s-jain-474441384/)
 
-## 👨‍💻 About Me
-- 🎓 A student passionate about **Artificial Intelligence & Machine Learning**
-- 🤖 Skilled in leveraging **AI tools to build and optimize projects**
-- 💡 Believe in **learning by building real-world projects**
-- 📈 Constantly improving my **Python and AI skillset**
-- 🔗 Check out my work here: [GitHub Profile](https://github.com/kunal-jain07)
+## What I’m building
 
----
+### LookClick · Eye and gesture control for Windows
 
-## 🧠 Skills
+Looking at a target moves the pointer. A quick thumb–index pinch clicks it. Holding that same pinch lets me drag it, and opening my fingers drops it. That distinction is the interaction I’m most interested in getting right. A click and a drag start with exactly the same movement.
 
-### 🚀 AI Tools
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-FF6F00?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Antigravity-6A5ACD?style=for-the-badge"/>
-</p>
+I use MediaPipe to track facial landmarks, run the GazeMap model through ONNX Runtime, and send mouse input to Windows from Python through the `SendInput` API.
 
-### 🐍 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python"/>
-</p>
+### BugReplay · Bug reports developers can replay
 
----
+It’s easy to report that a page broke and forget the few clicks that got it there. I built BugReplay so a tester can record those steps as they happen. A developer can review the recording locally, export a report, or copy a debugging prompt. [View on the Chrome Web Store](https://chromewebstore.google.com/detail/lgnoinkakdmgcpabhigkeaodbleomdbe)
 
-## 🛠️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
+## Elsewhere in my work
 
----
+- **Freelance web development.** I built a product catalogue for Syskonics International where customers can browse professional audio equipment by category. I also built and deployed the KYUP Business Forum website. [Syskonics International](https://syskonics.com/) · [KYUP Business Forum](https://kyup-business-forum.vercel.app/)
+- **Research.** I co-authored a 2025 paper in *Materials Science and Engineering: B* on dysprosium-doped cadmium silicate for supercapacitors and biosensors. My contribution was data curation. [Read the paper](https://doi.org/10.1016/j.mseb.2025.118533)
+- **Campus.** I volunteer with OSCode BMSCE. During OSCode Week, I wrote event announcements and registration details for Trifesta and the Industry Unfiltered panel.
 
-## 📌 Featured Projects
-🔹 Explore all my work here:  
-👉 **[My GitHub Repositories](https://github.com/kunal-jain07)**
-
-*(Building more exciting AI & Python projects... stay tuned! 🚀)*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunal-jain07&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-jain07&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-jain07&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-jain07&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## ⚡ Fun & Interests
-- 🤖 Exploring cutting-edge **AI tools & automation**
-- 🧠 Learning **Machine Learning concepts**
-- 🛠️ Building projects to gain **real-world experience**
-- 🌍 Interested in future tech & innovation
-
----
-
-## 📫 Connect With Me
-<p>
-  <a href="https://github.com/kunal-jain07">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⭐️ From <b>Kunal Jain</b> — Building, Learning & Growing 🚀
-</p>
+I’m looking for software engineering and AI/ML internships. I’d especially like to hear from teams working on computer vision or developer tools. [Get in touch on LinkedIn](https://www.linkedin.com/in/kunal-s-jain-474441384/)
